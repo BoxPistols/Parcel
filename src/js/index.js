@@ -10,7 +10,7 @@ app.appendChild(p)
 /*
  * Module
  */
-import '../css/main.css'
+import '../css/main.sass'
 import { myFunc } from './main.js'
 
 const today = myFunc(24)
